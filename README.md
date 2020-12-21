@@ -1,4 +1,4 @@
-# Jarvis
+# Jarvis (Just A Rather Very Intelligent System)
 
 A Personal Assistant for Linux, MacOS and Windows
 
@@ -75,10 +75,18 @@ Run with docker (docker needs to be installed and running):
 [sudo] make run_docker
 ```
 
-## Steps
+## Steps [Linux]
 
-```
 
-```
+`sudo apt install python3`
+`sudo apt install python3-pip`
+`git clone https://github.com/pekay007/JARVIS_Pekay.git`
+`cd JARVIS_Pekay`
+`sudo pip install virtualenv`
+`./setup.sh` or `bash setup.sh`
+Follow the instructions while the setup is running.
+After Setup completes.
+Run Jarvis by command `jarvis`
+
 
 
