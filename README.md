@@ -79,13 +79,21 @@ Run with docker (docker needs to be installed and running):
 
 
 `sudo apt install python3`
+
 `sudo apt install python3-pip`
+
 `git clone https://github.com/pekay007/JARVIS_Pekay.git`
+
 `cd JARVIS_Pekay`
+
 `sudo pip install virtualenv`
+
 `./setup.sh` or `bash setup.sh`
+
 Follow the instructions while the setup is running.
+
 After Setup completes.
+
 Run Jarvis by command `jarvis`
 
 
