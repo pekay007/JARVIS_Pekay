@@ -75,7 +75,7 @@ Run with docker (docker needs to be installed and running):
 [sudo] make run_docker
 ```
 
-## Steps [Linux]
+## Steps To Install [Linux]
 
 
 `sudo apt install python3`
