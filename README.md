@@ -2,7 +2,7 @@
 
 A Personal Assistant for Linux, MacOS and Windows
 
-![Jarvis](http://i.imgur.com/xZ8x9ES.jpg)
+![Jarvis](https://drive.google.com/file/d/1Mx8jyXf1mVnSddnwzfcX-JQl6VYostxz/view)
 
 Jarvis is a simple personal assistant for Linux, MacOS and Windows which works on the command line. He can talk to you if you enable his voice. He can tell you the weather, he can find restaurants and other places near you. He can do some great stuff for you.
 
@@ -78,6 +78,3 @@ Run with docker (docker needs to be installed and running):
 ```
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
